@@ -28,7 +28,7 @@ void selectionSort(int DzakyPutra[], int n) {
 }
 
 int main() {
-    const int size = 10;
+    const int size = 45;
     int DzakyPutra[size];
 
     // Input data
